@@ -1,0 +1,11 @@
+{
+  "name": "TP4 - Módulos con Node",
+  "version": "1.0.0",
+  "description": "segundo tp con node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Matias Castera y Tiago Ghelman",
+  "license": "ISC"
+}
